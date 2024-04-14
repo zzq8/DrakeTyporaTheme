@@ -42,5 +42,5 @@
     --p-spacing: 0.8rem; /*段间距*/
     --file-tree-text-size: 1.1rem; /*文件树大小*/
     --toc-text-size: 1rem; /*大纲大小*/
-    --text-size: 14px; /*字体大小 推荐配置: 应用设置-外观-字体大小*/
+    --text-size: 16px; /*字体大小 推荐配置: 应用设置-外观-字体大小*/
 }
